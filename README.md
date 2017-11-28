@@ -1,0 +1,2 @@
+# stylish
+For stylish scripts
